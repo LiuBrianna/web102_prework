@@ -196,5 +196,5 @@ firstGame.innerHTML = `${first.name}`;
 firstGameContainer.appendChild(firstGame);
 
 // do the same for the runner up item
-secondWord.innerHTML = `${second.name}`;
+secondGame.innerHTML = `${second.name}`;
 secondGameContainer.appendChild(secondGame);
